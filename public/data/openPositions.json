@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Engineering",
+    "openPositions": [
+      {
+        "id": 1,
+        "title": "Senior Front-end Engineer",
+        "description": "We are seeking a passionate and talented Senior JavaScript Developer eager and ready for challenges. We use Agile methodologies on the majority of our projects and encourage close communication among all the involved parties.",
+        "location": "Yerevan, Armenia",
+        "dueTo": "25.12.2022",
+        "details": [
+          {
+            "type": "title",
+            "content": "Description"
+          },
+          {
+            "type": "TEXT",
+            "content": "We are seeking a passionate and talented Senior JavaScript Developer eager and ready for challenges. We use Agile methodologies on the majority of our projects and encourage close communication among all the involved parties."
+          },
+          {
+            "type": "TITLE",
+            "content": "What you will do"
+          },
+          {
+            "type": "BULLETS",
+            "content": [
+              {
+                "type": "TEXT",
+                "content": "Design application architecture"
+              },
+              {
+                "type": "TEXT",
+                "content": "Lead the development process"
+              },
+              {
+                "type": "TEXT",
+                "content": "Write unit tests"
+              },
+              {
+                "type": "TEXT",
+                "content": "Maintain code quality and develop CI processes"
+              },
+              {
+                "type": "TEXT",
+                "content": "Write build scripts and integration tests"
+              },
+              {
+                "type": "TEXT",
+                "content": "Setup a development environment"
+              }
+            ]
+          },
+          {
+            "type": "TITLE",
+            "content": "What you have"
+          },
+          {
+            "type": "BULLETS",
+            "content": [
+              {
+                "type": "TEXT",
+                "content": "Understanding of and practical experience with SOLID principles and GOF patterns"
+              },
+              {
+                "type": "TEXT",
+                "content": "3+ years of production experience"
+              },
+              {
+                "type": "TEXT",
+                "content": "Technical background"
+              },
+              {
+                "type": "TEXT",
+                "content": "Strong knowledge of JavaScript (Core, DOM APIs)"
+              },
+              {
+                "type": "TEXT",
+                "content": "Knowledge of design patterns and algorithms"
+              },
+              {
+                "type": "TEXT",
+                "content": "Experience with JavaScript frameworks and libraries (Angular, React, others)"
+              },
+              {
+                "type": "TEXT",
+                "content": "Knowledge of OOP principles"
+              },
+              {
+                "type": "TEXT",
+                "content": "Team collaboration experience"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
